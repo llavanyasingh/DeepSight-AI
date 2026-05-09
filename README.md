@@ -2,6 +2,11 @@
 
 DeepSight-AI is an AI-powered Computer Vision project focused on intelligent indoor object detection and scene understanding using advanced Deep Learning techniques. The project combines object detection, feature extraction, sequential learning, and depth estimation to improve visual understanding in indoor environments.
 
+# Architecture
+
+<img width="1280" height="894" alt="WhatsApp Image 2026-05-09 at 5 29 41 PM" src="https://github.com/user-attachments/assets/4bf261bd-eb46-4f0d-a623-6b6e8deace65" />
+
+
 # 🚀 Features
 
 - Indoor object detection using AI
