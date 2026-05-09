@@ -1,17 +1,16 @@
 # DeepSight-AI
 
-DeepSight-AI is an AI-powered Computer Vision project focused on intelligent indoor object detection and scene understanding using advanced Deep Learning techniques. The project integrates object detection, feature extraction, sequential learning, and depth estimation models to improve visual understanding in indoor environments.
+DeepSight-AI is an AI-powered Computer Vision project focused on intelligent indoor object detection and scene understanding using advanced Deep Learning techniques. The project combines object detection, feature extraction, sequential learning, and depth estimation to improve visual understanding in indoor environments.
 
 # 🚀 Features
 
-- Real-time indoor object detection
-- AI-powered scene understanding
+- Indoor object detection using AI
+- Scene understanding with Deep Learning
 - YOLO-based object localization
-- CNN feature extraction using DenseNet
-- BiGRU sequential learning architecture
+- DenseNet feature extraction
+- BiGRU sequential learning
 - Depth estimation using MiDaS
-- PyTorch-based deep learning pipeline
-- Image preprocessing and augmentation
+- PyTorch-based implementation
 
 # 🧠 AI Technologies Used
 
@@ -30,21 +29,40 @@ DeepSight-AI is an AI-powered Computer Vision project focused on intelligent ind
 - PyTorch
 - YOLO (Ultralytics)
 - DenseNet161
-- Transformers
 - OpenCV
 - NumPy
-- Matplotlib
 - Torchvision
-- Scikit-image
+- Transformers
+- Matplotlib
 
-# 📂 Project Workflow
+# 📓 Project Notebook
 
-1. Image Input & Preprocessing  
-2. Object Detection using YOLO  
-3. Feature Extraction with DenseNet  
-4. Sequential Learning using BiGRU  
-5. Depth Estimation & Scene Understanding  
-6. Final Prediction & Visualization  
+The complete project implementation is available in:
+
+```python
+DeepSight-AI.ipynb
+```
+
+# ▶️ How to Run
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/DeepSight-AI.git
+cd DeepSight-AI
+```
+
+## 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## 3. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
 
 # 📊 Applications
 
@@ -52,10 +70,20 @@ DeepSight-AI is an AI-powered Computer Vision project focused on intelligent ind
 - Indoor Navigation
 - Robotics & Automation
 - Intelligent Monitoring Systems
-- AI-based Scene Understanding
+- AI-based Visual Understanding
 
-# ▶️ Installation
+# 📈 Future Improvements
 
-```bash
-git clone https://github.com/your-username/DeepSight-AI.git
-cd DeepSight-AI
+- Real-time webcam integration
+- Multi-object tracking
+- Edge device optimization
+- Improved dataset training
+- Flask/Streamlit deployment
+
+# 👩‍💻 Author
+
+Lavanya Singh
+
+# 📄 License
+
+This project is developed for academic and research purposes.
